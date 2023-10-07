@@ -1,9 +1,10 @@
 # Users
 
 ## administrator user
-username: _admin_
-password: _admin@pa$$w0rd_
+username: ` admin` 
+
+password: `admin@pa$$w0rd`
 
 ## developer user
-username: _developer_
-password: _developer@pa$$w0rd_
+username: `developer`
+password: `developer@pa$$w0rd`
