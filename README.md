@@ -1,7 +1,7 @@
 # Users
 
 ## administrator user
-username: ` admin` 
+username: `admin` 
 
 password: `admin@pa$$w0rd`
 
